@@ -24,6 +24,9 @@ currentdayEl.appendChild(dateEl);
 
 // 2. WHEN I scroll down
 //      THEN I am presented with time blocks for standard business hours
+//      . create the time blocks 
+//          . 1hr increments 
+//          . from 9am to 5pm
 
 // 3. WHEN I view the time blocks for that day
 //      THEN each time block is color-coded to indicate whether it is in the past, present, or future
